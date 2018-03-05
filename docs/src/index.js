@@ -86,7 +86,7 @@ class Header extends React.Component{
 const LivePlayer = (`
     <div className="ut-player-container" style={{textAlign: 'left',width: '100%',height: '480px'}}>
             <VideoPlayer isAutoQuality={false} style={{width:640,height:360,textAlign: 'left'}}
-              poster={'https://img.youtube.com/vi/iRZ2Sh5-XuM/hqdefault.jpg'}
+              poster={'https://img.'}
               src={[
                 {
                   src: "assets/store_720.mp4",
